@@ -1,0 +1,9 @@
+{
+  "name": "@itsy/css-asset",
+  "version": "0.0.1",
+  "main": "index.js",
+  "exports": "./index.js",
+  "type": "module",
+  "author": "Dave Honneffer",
+  "license": "MIT"
+}
